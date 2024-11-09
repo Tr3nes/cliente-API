@@ -1,5 +1,14 @@
 package main
 
+//Cliente API que consulta los últimos terremotos recientes
+//En este caso, de magnitud 5 del 15 al 20 de noviembre del 2024
+
+//Nota: Se puede cambiar las fechas únicamente cambiandolo directamente de la URL que fue proporcionada en la página
+
+// Adrian Manuel Escogido Antonio
+// Alberto Brenes Fernandez
+// Topicos para el despliegue de aplicaciones
+
 import (
 	"encoding/json"
 	"fmt"
